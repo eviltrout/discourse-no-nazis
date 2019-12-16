@@ -1,6 +1,6 @@
 # discourse-no-nazis
 
-<img src="https://github.com/eviltrout/discourse-no-nazis/blob/master/images/no-nazis.png?raw=true">
+<center><img src="https://github.com/eviltrout/discourse-no-nazis/blob/master/images/no-nazis.png?raw=true" width="200" height="200"></center>
 
 This Discourse plugin will ban signups from users who participated in the neo-nazi web site,
 [The Iron March](https://www.theguardian.com/us-news/2019/nov/07/neo-nazi-site-iron-march-materials-leak).
