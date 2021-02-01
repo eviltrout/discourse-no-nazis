@@ -17,6 +17,7 @@ describe 'email hash test' do
     it "returns true for an email in the list" do
       expect(DiscourseNoNazis.hit?('realnazi@example.com')).to eq(true)
       expect(DiscourseNoNazis.hit?('RealNazi@example.com')).to eq(true)
+      expect(DiscourseNoNazis.hit?('realnazi@EXAMPLE.COM')).to eq(true)
     end
   end
 
